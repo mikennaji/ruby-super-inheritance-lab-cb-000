@@ -6,18 +6,9 @@ def hello
 end
 
 def raise_hand
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
+
   9.times do
-    puts "Pick me!"
+    super
  end
 end
 
