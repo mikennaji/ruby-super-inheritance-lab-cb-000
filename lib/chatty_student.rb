@@ -16,7 +16,7 @@ def raise_hand
   super
   super
   super
-  10.times do
+  8.times do
     puts "Pick me!"
  end
 end
